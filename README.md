@@ -21,11 +21,11 @@ By enabling shared shipping, we add a layer of accessibility and comfort to the 
 
 ##### Presentation Deck: <a href="https://github.com/ShipMates/shipmates.github.io/blob/main/Presentation-Deck/Shared_shipping_final.pdf" target="_blank">Click here to view the Slides</a>
 
+##### Proof-of-Concept Website Files: <a href="https://shipmates.github.io/Demo" target="_blank">Click here to use our website</a>
+
 ##### Business Survey Files: <a href="https://github.com/ShipMates/shipmates.github.io/blob/main/Business-Survey/Survey%20-%20Shared%20Shipping%20Platform.csv" target="_blank">Click here to view the CSV</a>
 
 ##### Presentation Video (Recorded): <a href="https://youtu.be/o1uqhFeQDKg" target="_blank">Click here to view on YouTube</a>
-
-##### Proof-of-Concept Website Files: <a href="https://github.com/ShipMates/shipmates.github.io/tree/main/Web-Dev/BDL_project" target="_blank">Click here to find the Source Code</a>
 
 ### Group Members: 
 
