@@ -1,6 +1,6 @@
-## Welcome to Shipmates
+## Welcome to ShipMates
 
-ShipBuddies offers a platform which connects users shopping online enabling them to split the shipping fees for their packages!
+ShipMates offers a platform which connects users shopping online enabling them to split the shipping fees for their packages!
 
 ### The need
 
