@@ -17,9 +17,9 @@ By enabling shared shipping, we add a layer of accessibility and comfort to the 
 
 ##### Commercial Video: [https://youtu.be/-5grjKK5u9U](https://youtu.be/-5grjKK5u9U)
 
-##### Report on Applying the Rabit Model to ShipMates (Roadmap):
+##### Report on Applying the Rabit Model to ShipMates: [to-be-added](nobodycares.com)
 
-##### Presentation Slides Deck: 
+##### Presentation Deck: [Click here to view the Slides](https://github.com/ShipMates/shipmates.github.io/blob/main/Presentation-Deck/Shared_shipping_final.pdf)
 
 ##### Business Survey Files: [Click here to view the CSV](https://github.com/ShipMates/shipmates.github.io/blob/main/Business-Survey/Survey%20-%20Shared%20Shipping%20Platform.csv)
 
@@ -29,7 +29,7 @@ By enabling shared shipping, we add a layer of accessibility and comfort to the 
 
 ### Group Members: 
 
-| <img src="About-Us/uddz.jpeg" width="200" height="200"/> | <img src="About-Us/lil.jpeg" width="200" height="200"/> | <img src="About-Us/kar.jpeg" width="200" height="200"/> | <img src="About-Us/wen.jpeg" width="200" height="200"/> | <img src="About-Us/you.jpeg" width="200" height="200"/> |
+| <img src="About-Us/uddz.jpeg" width="150" height="150"/> | <img src="About-Us/lil.jpeg" width="150" height="150"/> | <img src="About-Us/kar.jpeg" width="150" height="150"/> | <img src="About-Us/wen.jpeg" width="150" height="150"/> | <img src="About-Us/you.jpeg" width="150" height="150"/> |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
 | Uddalak Bhaduri | Lili Lu | Károly Tóth | Yuan Wo | Yousef AbdElKhalek |
 
