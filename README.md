@@ -26,3 +26,4 @@ Presentation Video (Recorded): https://youtu.be/o1uqhFeQDKg
 Proof-of-Concept Website Files: 
 
 About our Group Members: 
+![Name](http://url/to/img.png)
