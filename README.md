@@ -1,6 +1,7 @@
 ## Welcome to ShipMates
 
 ![Image](Images/logo.png "ShipMatess")
+
 ShipMates offers a platform which connects users shopping online enabling them to split the shipping fees for their packages!
 
 ### The need
