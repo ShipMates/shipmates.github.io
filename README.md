@@ -13,4 +13,16 @@ By enabling shared shipping, we add a layer of accessibility and comfort to the 
 
 ### Submission Related Content
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Commercial Video:
+
+Report on Applying the Rabit Model to ShipMates (Roadmap):
+
+Presentation Slides Deck: 
+
+Business Survey Files:
+
+Presentation Video (Recorded): https://youtu.be/o1uqhFeQDKg
+
+Proof-of-Concept Website Files: 
+
+About our Group Members: 
