@@ -19,13 +19,11 @@ Report on Applying the Rabit Model to ShipMates (Roadmap):
 
 Presentation Slides Deck: 
 
-Business Survey Files:
+Business Survey Files: [https://github.com/ShipMates/shipmates.github.io/blob/main/Business_Survey/Survey%20-%20Shared%20Shipping%20Platform.csv](Click here to view the CSV)
 
 Presentation Video (Recorded): [https://youtu.be/o1uqhFeQDKg](https://youtu.be/o1uqhFeQDKg)
 
-Proof-of-Concept Website Files: 
+Proof-of-Concept Website Files: [https://github.com/ShipMates/shipmates.github.io/tree/main/Web_Dev/BDL_project](Click here to find the Source Code)
 
 About our Group Members: 
-![Name](http://url/to/img.png)
-
-[![Watch the video](https://github.com/ShipMates/shipmates.github.io/blob/main/Web_Dev/BDL_project/assets/ShipMates_Logo.png)](https://youtu.be/-5grjKK5u9U "Commercial Video")
+![Name](https://github.com/ShipMates/shipmates.github.io/blob/main/Web_Dev/BDL_project/assets/ShipMates_Logo.png)
