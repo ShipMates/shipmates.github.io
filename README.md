@@ -26,4 +26,4 @@ By enabling shared shipping, we add a layer of accessibility and comfort to the 
 ##### Proof-of-Concept Website Files: [Click here to find the Source Code](https://github.com/ShipMates/shipmates.github.io/tree/main/Web-Dev/BDL_project)
 
 About our Group Members: 
-![image](https://github.com/ShipMates/shipmates.github.io/blob/main/Web_Dev/BDL_project/assets/ShipMates_Logo.png)
+![image](https://github.com/ShipMates/shipmates.github.io/blob/main/Images/logo.png)
