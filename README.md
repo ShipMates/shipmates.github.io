@@ -1,4 +1,4 @@
-### <a href="https://github.com/ShipMates/shipmates.github.io/tree/main/Demo" target="_blank">Check out our POC demo in action!</a>
+### <a href="https://shipmates.github.io/Demo" target="_blank">Click here to try our platform!</a>
 
 <img src="Images/logo.png" alt="ShipMates" width="250" height="250" />
 
