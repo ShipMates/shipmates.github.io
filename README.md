@@ -1,5 +1,7 @@
 ## Welcome to ShipMates
 
+<img src="Images/logo.png" alt="ShipMates" width="250" height="250" />
+
 ShipMates offers a platform which connects users shopping online enabling them to split the shipping fees for their packages!
 
 ### The need
@@ -13,17 +15,22 @@ By enabling shared shipping, we add a layer of accessibility and comfort to the 
 
 ### All the required submissions are gathered below
 
-#### Commercial Video: [https://youtu.be/-5grjKK5u9U](https://youtu.be/-5grjKK5u9U)
+##### Commercial Video: [https://youtu.be/-5grjKK5u9U](https://youtu.be/-5grjKK5u9U)
 
-#### Report on Applying the Rabit Model to ShipMates (Roadmap):
+##### Report on Applying the Rabit Model to ShipMates: [to-be-added](nobodycares.com)
 
-#### Presentation Slides Deck: 
+##### Presentation Deck: [Click here to view the Slides](https://github.com/ShipMates/shipmates.github.io/blob/main/Presentation-Deck/Shared_shipping_final.pdf)
 
-#### Business Survey Files: [Click here to view the CSV](https://github.com/ShipMates/shipmates.github.io/blob/main/Business_Survey/Survey%20-%20Shared%20Shipping%20Platform.csv)
+##### Business Survey Files: [Click here to view the CSV](https://github.com/ShipMates/shipmates.github.io/blob/main/Business-Survey/Survey%20-%20Shared%20Shipping%20Platform.csv)
 
-#### Presentation Video (Recorded): [https://youtu.be/o1uqhFeQDKg](https://youtu.be/o1uqhFeQDKg)
+##### Presentation Video (Recorded): [https://youtu.be/o1uqhFeQDKg](https://youtu.be/o1uqhFeQDKg)
 
-#### Proof-of-Concept Website Files: [Click here to find the Source Code](https://github.com/ShipMates/shipmates.github.io/tree/main/Web_Dev/BDL_project)
+##### Proof-of-Concept Website Files: [Click here to find the Source Code](https://github.com/ShipMates/shipmates.github.io/tree/main/Web-Dev/BDL_project)
 
-About our Group Members: 
-![image](https://github.com/ShipMates/shipmates.github.io/blob/main/Web_Dev/BDL_project/assets/ShipMates_Logo.png)
+### Group Members: 
+
+| <img src="About-Us/uddz.jpeg" width="150" height="150"/> | <img src="About-Us/lil.jpeg" width="150" height="150"/> | <img src="About-Us/kar.jpeg" width="150" height="150"/> | <img src="About-Us/wen.jpeg" width="150" height="150"/> | <img src="About-Us/you.jpeg" width="150" height="150"/> |
+| :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
+| Uddalak Bhaduri | Lili Lu | Károly Tóth | Yuan Wo | Yousef AbdElKhalek |
+
+
