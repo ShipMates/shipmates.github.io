@@ -5,7 +5,7 @@ ShipBuddies offers a platform which connects users shopping online enabling them
 ### The need
 
 Ever tried to buy something online only to realise that the shipping fee is the same or sometimes double the price of your product? 
-If yes, then YOU ARE IN FOR A TREAT! :grinning:
+If yes, then YOU ARE IN FOR A TREAT!
 
 ### Value Proposition
 
