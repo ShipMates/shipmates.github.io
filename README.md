@@ -13,17 +13,17 @@ By enabling shared shipping, we add a layer of accessibility and comfort to the 
 
 ### All the required submissions are gathered below
 
-Commercial Video: [https://youtu.be/-5grjKK5u9U](https://youtu.be/-5grjKK5u9U)
+#### Commercial Video: [https://youtu.be/-5grjKK5u9U](https://youtu.be/-5grjKK5u9U)
 
-Report on Applying the Rabit Model to ShipMates (Roadmap):
+#### Report on Applying the Rabit Model to ShipMates (Roadmap):
 
-Presentation Slides Deck: 
+#### Presentation Slides Deck: 
 
-Business Survey Files: [https://github.com/ShipMates/shipmates.github.io/blob/main/Business_Survey/Survey%20-%20Shared%20Shipping%20Platform.csv](Click here to view the CSV)
+#### Business Survey Files: [Click here to view the CSV](https://github.com/ShipMates/shipmates.github.io/blob/main/Business_Survey/Survey%20-%20Shared%20Shipping%20Platform.csv)
 
-Presentation Video (Recorded): [https://youtu.be/o1uqhFeQDKg](https://youtu.be/o1uqhFeQDKg)
+#### Presentation Video (Recorded): [https://youtu.be/o1uqhFeQDKg](https://youtu.be/o1uqhFeQDKg)
 
-Proof-of-Concept Website Files: [Click here to find the Source Code](https://github.com/ShipMates/shipmates.github.io/tree/main/Web_Dev/BDL_project)
+#### Proof-of-Concept Website Files: [Click here to find the Source Code](https://github.com/ShipMates/shipmates.github.io/tree/main/Web_Dev/BDL_project)
 
 About our Group Members: 
-![Name](https://github.com/ShipMates/shipmates.github.io/blob/main/Web_Dev/BDL_project/assets/ShipMates_Logo.png)
+![image](https://github.com/ShipMates/shipmates.github.io/blob/main/Web_Dev/BDL_project/assets/ShipMates_Logo.png)
