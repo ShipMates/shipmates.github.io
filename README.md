@@ -1,4 +1,4 @@
-## Welcome to ShipMates
+### <a href="https://shipmates.github.io/Web-Dev/BDL_project/#/screens/d12245cc-1680-458d-89dd-4f0d7fb22724" target="_blank">Check out our POC demo in action!</a>
 
 <img src="Images/logo.png" alt="ShipMates" width="250" height="250" />
 
@@ -15,17 +15,17 @@ By enabling shared shipping, we add a layer of accessibility and comfort to the 
 
 ### All the required submissions are gathered below
 
-##### Commercial Video: [https://youtu.be/-5grjKK5u9U](https://youtu.be/-5grjKK5u9U)
+##### Commercial Video: <a href="https://youtu.be/-5grjKK5u9U" target="_blank">Click here to view on YouTube</a>
 
-##### Report on Applying the Rabit Model to ShipMates: [to-be-added](nobodycares.com)
+##### Report on Applying the Rabit Model to ShipMates: <a href="https://nobodycares.com" target="_blank">to-be-added</a>
 
-##### Presentation Deck: [Click here to view the Slides](https://github.com/ShipMates/shipmates.github.io/blob/main/Presentation-Deck/Shared_shipping_final.pdf)
+##### Presentation Deck: <a href="https://github.com/ShipMates/shipmates.github.io/blob/main/Presentation-Deck/Shared_shipping_final.pdf" target="_blank">Click here to view the Slides</a>
 
-##### Business Survey Files: [Click here to view the CSV](https://github.com/ShipMates/shipmates.github.io/blob/main/Business-Survey/Survey%20-%20Shared%20Shipping%20Platform.csv)
+##### Business Survey Files: <a href="https://github.com/ShipMates/shipmates.github.io/blob/main/Business-Survey/Survey%20-%20Shared%20Shipping%20Platform.csv" target="_blank">Click here to view the CSV</a>
 
-##### Presentation Video (Recorded): [https://youtu.be/o1uqhFeQDKg](https://youtu.be/o1uqhFeQDKg)
+##### Presentation Video (Recorded): <a href="https://youtu.be/o1uqhFeQDKg" target="_blank">Click here to view on YouTube</a>
 
-##### Proof-of-Concept Website Files: [Click here to find the Source Code](https://github.com/ShipMates/shipmates.github.io/tree/main/Web-Dev/BDL_project)
+##### Proof-of-Concept Website Files: <a href="https://github.com/ShipMates/shipmates.github.io/tree/main/Web-Dev/BDL_project" target="_blank">Click here to find the Source Code</a>
 
 ### Group Members: 
 
