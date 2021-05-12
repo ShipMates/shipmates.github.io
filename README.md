@@ -17,15 +17,15 @@ By enabling shared shipping, we add a layer of accessibility and comfort to the 
 
 ##### Commercial Video: <a href="https://youtu.be/-5grjKK5u9U" target="_blank">Click here to view on YouTube</a>
 
-##### Report on Applying the Rabit Model to ShipMates: [to-be-added](nobodycares.com)
+##### Report on Applying the Rabit Model to ShipMates: <a href="https://nobodycares.com" target="_blank">to-be-added</a>
 
-##### Presentation Deck: [Click here to view the Slides](https://github.com/ShipMates/shipmates.github.io/blob/main/Presentation-Deck/Shared_shipping_final.pdf)
+##### Presentation Deck: <a href="https://github.com/ShipMates/shipmates.github.io/blob/main/Presentation-Deck/Shared_shipping_final.pdf" target="_blank">Click here to view the Slides</a>
 
-##### Business Survey Files: [Click here to view the CSV](https://github.com/ShipMates/shipmates.github.io/blob/main/Business-Survey/Survey%20-%20Shared%20Shipping%20Platform.csv)
+##### Business Survey Files: <a href="https://github.com/ShipMates/shipmates.github.io/blob/main/Business-Survey/Survey%20-%20Shared%20Shipping%20Platform.csv" target="_blank">Click here to view the CSV</a>
 
-##### Presentation Video (Recorded): [https://youtu.be/o1uqhFeQDKg](https://youtu.be/o1uqhFeQDKg)
+##### Presentation Video (Recorded): <a href="https://youtu.be/o1uqhFeQDKg" target="_blank">Click here to view on YouTube</a>
 
-##### Proof-of-Concept Website Files: [Click here to find the Source Code](https://github.com/ShipMates/shipmates.github.io/tree/main/Web-Dev/BDL_project)
+##### Proof-of-Concept Website Files: <a href="https://github.com/ShipMates/shipmates.github.io/tree/main/Web-Dev/BDL_project" target="_blank">Click here to find the Source Code</a>
 
 ### Group Members: 
 
