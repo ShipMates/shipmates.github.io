@@ -23,7 +23,7 @@ Business Survey Files: [https://github.com/ShipMates/shipmates.github.io/blob/ma
 
 Presentation Video (Recorded): [https://youtu.be/o1uqhFeQDKg](https://youtu.be/o1uqhFeQDKg)
 
-Proof-of-Concept Website Files: [https://github.com/ShipMates/shipmates.github.io/tree/main/Web_Dev/BDL_project](Click here to find the Source Code)
+Proof-of-Concept Website Files: [Click here to find the Source Code](https://github.com/ShipMates/shipmates.github.io/tree/main/Web_Dev/BDL_project)
 
 About our Group Members: 
 ![Name](https://github.com/ShipMates/shipmates.github.io/blob/main/Web_Dev/BDL_project/assets/ShipMates_Logo.png)
