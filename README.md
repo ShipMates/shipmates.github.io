@@ -21,7 +21,7 @@ Presentation Slides Deck:
 
 Business Survey Files:
 
-Presentation Video (Recorded): https://youtu.be/o1uqhFeQDKg
+Presentation Video (Recorded): [https://youtu.be/o1uqhFeQDKg](https://youtu.be/o1uqhFeQDKg)
 
 Proof-of-Concept Website Files: 
 
