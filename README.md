@@ -1,5 +1,6 @@
 ## Welcome to ShipMates
 
+![Image](Images/logo.png "ShipMatess")
 ShipMates offers a platform which connects users shopping online enabling them to split the shipping fees for their packages!
 
 ### The need
@@ -25,5 +26,15 @@ By enabling shared shipping, we add a layer of accessibility and comfort to the 
 
 ##### Proof-of-Concept Website Files: [Click here to find the Source Code](https://github.com/ShipMates/shipmates.github.io/tree/main/Web-Dev/BDL_project)
 
-About our Group Members: 
-![image](https://github.com/ShipMates/shipmates.github.io/blob/main/Images/logo.png)
+### Group Members: 
+
+###### Uddalak Bhaduri
+
+###### Lili Lu
+
+###### Károly Tóth
+
+###### Yuan Wo
+
+###### Yousef AbdElKhalek
+
