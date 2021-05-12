@@ -13,7 +13,7 @@ By enabling shared shipping, we add a layer of accessibility and comfort to the 
 
 ### Submission Related Content
 
-Commercial Video:
+Commercial Video: https://youtu.be/-5grjKK5u9U
 
 Report on Applying the Rabit Model to ShipMates (Roadmap):
 
