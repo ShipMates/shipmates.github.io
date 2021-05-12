@@ -28,5 +28,4 @@ Proof-of-Concept Website Files:
 About our Group Members: 
 ![Name](http://url/to/img.png)
 
-
-![TEST VIDEO](https://youtu.be/o1uqhFeQDKg "Video Title")
+[![Watch the video](https://github.com/ShipMates/shipmates.github.io/blob/main/Web_Dev/BDL_project/assets/ShipMates_Logo.png)](https://youtu.be/-5grjKK5u9U "Commercial Video")
