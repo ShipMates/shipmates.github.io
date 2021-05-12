@@ -6,29 +6,11 @@ You can use the [editor on GitHub](https://github.com/ShipMates/shipmates.github
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### The need
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ever tried to buy something online only to realise that the shipping fee is the same or sometimes double the price of your product? 
+If yes, then YOU ARE IN FOR A TREAT! 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
