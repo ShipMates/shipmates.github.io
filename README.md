@@ -15,7 +15,7 @@ By enabling shared shipping, we add a layer of accessibility and comfort to the 
 
 ### All the required submissions are gathered below
 
-##### Commercial Video: [https://youtu.be/-5grjKK5u9U](https://youtu.be/-5grjKK5u9U)
+##### Commercial Video: <a href="https://youtu.be/-5grjKK5u9U" target="_blank">Click here to view on YouTube</a>
 
 ##### Report on Applying the Rabit Model to ShipMates: [to-be-added](nobodycares.com)
 
