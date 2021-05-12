@@ -1,6 +1,6 @@
 ## Welcome to ShipMates
 
-![Image](Images/logo.png "ShipMatess")
+<img src="Images/logo.png" alt="ShipMates" width="250" height="250" />
 
 ShipMates offers a platform which connects users shopping online enabling them to split the shipping fees for their packages!
 
@@ -29,13 +29,8 @@ By enabling shared shipping, we add a layer of accessibility and comfort to the 
 
 ### Group Members: 
 
-###### Uddalak Bhaduri
+| <img src="About-Us/uddz.jpeg" width="200" height="200"/> | <img src="About-Us/lil.jpeg" width="200" height="200"/> | <img src="About-Us/kar.jpeg" width="200" height="200"/> | <img src="About-Us/wen.jpeg" width="200" height="200"/> | <img src="About-Us/you.jpeg" width="200" height="200"/> |
+| :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
+| Uddalak Bhaduri | Lili Lu | Károly Tóth | Yuan Wo | Yousef AbdElKhalek |
 
-###### Lili Lu
-
-###### Károly Tóth
-
-###### Yuan Wo
-
-###### Yousef AbdElKhalek
 
